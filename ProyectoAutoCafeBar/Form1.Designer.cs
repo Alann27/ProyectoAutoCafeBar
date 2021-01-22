@@ -642,7 +642,6 @@
             // 
             this.pictLogin.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.pictLogin, "pictLogin");
-            this.pictLogin.Image = global::ProyectoAutoCafeBar.Properties.Resources.Imagen_Login;
             this.pictLogin.Name = "pictLogin";
             this.pictLogin.TabStop = false;
             // 
@@ -1975,7 +1974,6 @@
             // 
             this.pictDispensador2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.pictDispensador2, "pictDispensador2");
-            this.pictDispensador2.Image = global::ProyectoAutoCafeBar.Properties.Resources.btnDispensador2;
             this.pictDispensador2.Name = "pictDispensador2";
             this.pictDispensador2.TabStop = false;
             this.pictDispensador2.BackColorChanged += new System.EventHandler(this.pictDispensador2_BackColorChanged);
@@ -1985,7 +1983,6 @@
             // 
             this.pictDispensador3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.pictDispensador3, "pictDispensador3");
-            this.pictDispensador3.Image = global::ProyectoAutoCafeBar.Properties.Resources.btnDispensador3;
             this.pictDispensador3.Name = "pictDispensador3";
             this.pictDispensador3.TabStop = false;
             this.pictDispensador3.BackColorChanged += new System.EventHandler(this.pictDispensador3_BackColorChanged);
@@ -1995,7 +1992,6 @@
             // 
             this.pictDispensador1.BackColor = System.Drawing.Color.LightBlue;
             resources.ApplyResources(this.pictDispensador1, "pictDispensador1");
-            this.pictDispensador1.Image = global::ProyectoAutoCafeBar.Properties.Resources.btnDispensador1;
             this.pictDispensador1.Name = "pictDispensador1";
             this.pictDispensador1.TabStop = false;
             this.pictDispensador1.BackColorChanged += new System.EventHandler(this.pictDispensador1_BackColorChanged);
@@ -3415,21 +3411,18 @@
             // pictNeto
             // 
             resources.ApplyResources(this.pictNeto, "pictNeto");
-            this.pictNeto.Image = global::ProyectoAutoCafeBar.Properties.Resources.Neto_copia;
             this.pictNeto.Name = "pictNeto";
             this.pictNeto.TabStop = false;
             // 
             // pictSalida
             // 
             resources.ApplyResources(this.pictSalida, "pictSalida");
-            this.pictSalida.Image = global::ProyectoAutoCafeBar.Properties.Resources.Salida_copia;
             this.pictSalida.Name = "pictSalida";
             this.pictSalida.TabStop = false;
             // 
             // pictEntrada
             // 
             resources.ApplyResources(this.pictEntrada, "pictEntrada");
-            this.pictEntrada.Image = global::ProyectoAutoCafeBar.Properties.Resources.Entrada_copia;
             this.pictEntrada.Name = "pictEntrada";
             this.pictEntrada.TabStop = false;
             // 
@@ -3557,28 +3550,24 @@
             // pictFaltanteAcumulado
             // 
             resources.ApplyResources(this.pictFaltanteAcumulado, "pictFaltanteAcumulado");
-            this.pictFaltanteAcumulado.Image = global::ProyectoAutoCafeBar.Properties.Resources.Faltante_acumulado_copia;
             this.pictFaltanteAcumulado.Name = "pictFaltanteAcumulado";
             this.pictFaltanteAcumulado.TabStop = false;
             // 
             // pictSobrantesAcumulados
             // 
             resources.ApplyResources(this.pictSobrantesAcumulados, "pictSobrantesAcumulados");
-            this.pictSobrantesAcumulados.Image = global::ProyectoAutoCafeBar.Properties.Resources.Sobrantes_acumulados_copia;
             this.pictSobrantesAcumulados.Name = "pictSobrantesAcumulados";
             this.pictSobrantesAcumulados.TabStop = false;
             // 
             // pictPagoDeNomina
             // 
             resources.ApplyResources(this.pictPagoDeNomina, "pictPagoDeNomina");
-            this.pictPagoDeNomina.Image = global::ProyectoAutoCafeBar.Properties.Resources.Pago_de_Nómina_copia;
             this.pictPagoDeNomina.Name = "pictPagoDeNomina";
             this.pictPagoDeNomina.TabStop = false;
             // 
             // pictEmpleadosActivos
             // 
             resources.ApplyResources(this.pictEmpleadosActivos, "pictEmpleadosActivos");
-            this.pictEmpleadosActivos.Image = global::ProyectoAutoCafeBar.Properties.Resources.Empleados_Activos_copia;
             this.pictEmpleadosActivos.Name = "pictEmpleadosActivos";
             this.pictEmpleadosActivos.TabStop = false;
             // 
@@ -3817,7 +3806,6 @@
             // 
             this.pictNomina.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.pictNomina, "pictNomina");
-            this.pictNomina.Image = global::ProyectoAutoCafeBar.Properties.Resources.btnNomina;
             this.pictNomina.Name = "pictNomina";
             this.pictNomina.TabStop = false;
             this.pictNomina.BackColorChanged += new System.EventHandler(this.pictNomina_BackColorChanged);
@@ -3827,7 +3815,6 @@
             // 
             this.pictNumeraciones.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.pictNumeraciones, "pictNumeraciones");
-            this.pictNumeraciones.Image = global::ProyectoAutoCafeBar.Properties.Resources.btnCuadre;
             this.pictNumeraciones.Name = "pictNumeraciones";
             this.pictNumeraciones.TabStop = false;
             this.pictNumeraciones.BackColorChanged += new System.EventHandler(this.pictNumeraciones_BackColorChanged);
@@ -3837,7 +3824,6 @@
             // 
             this.pictMovimientos.BackColor = System.Drawing.Color.LightBlue;
             resources.ApplyResources(this.pictMovimientos, "pictMovimientos");
-            this.pictMovimientos.Image = global::ProyectoAutoCafeBar.Properties.Resources.btnMovimientos;
             this.pictMovimientos.Name = "pictMovimientos";
             this.pictMovimientos.TabStop = false;
             this.pictMovimientos.BackColorChanged += new System.EventHandler(this.pictMovimientos_BackColorChanged);
