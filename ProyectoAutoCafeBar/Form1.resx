@@ -123,6 +123,9 @@
   <metadata name="data.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <metadata name="data.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <metadata name="Informes.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>1224, 232</value>
   </metadata>
@@ -130,17 +133,176 @@
   <data name="pnlLogin.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left, Right</value>
   </data>
+  <data name="&gt;&gt;txtContrasena.Name" xml:space="preserve">
+    <value>txtContrasena</value>
+  </data>
+  <data name="&gt;&gt;txtContrasena.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtContrasena.Parent" xml:space="preserve">
+    <value>panelAuxiliar</value>
+  </data>
+  <data name="&gt;&gt;txtContrasena.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblLogin.Name" xml:space="preserve">
+    <value>lblLogin</value>
+  </data>
+  <data name="&gt;&gt;lblLogin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblLogin.Parent" xml:space="preserve">
+    <value>panelAuxiliar</value>
+  </data>
+  <data name="&gt;&gt;lblLogin.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnIngresar.Name" xml:space="preserve">
+    <value>btnIngresar</value>
+  </data>
+  <data name="&gt;&gt;btnIngresar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnIngresar.Parent" xml:space="preserve">
+    <value>panelAuxiliar</value>
+  </data>
+  <data name="&gt;&gt;btnIngresar.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lblUsuario.Name" xml:space="preserve">
+    <value>lblUsuario</value>
+  </data>
+  <data name="&gt;&gt;lblUsuario.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblUsuario.Parent" xml:space="preserve">
+    <value>panelAuxiliar</value>
+  </data>
+  <data name="&gt;&gt;lblUsuario.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnSalir.Name" xml:space="preserve">
+    <value>btnSalir</value>
+  </data>
+  <data name="&gt;&gt;btnSalir.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSalir.Parent" xml:space="preserve">
+    <value>panelAuxiliar</value>
+  </data>
+  <data name="&gt;&gt;btnSalir.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lblContrasena.Name" xml:space="preserve">
+    <value>lblContrasena</value>
+  </data>
+  <data name="&gt;&gt;lblContrasena.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblContrasena.Parent" xml:space="preserve">
+    <value>panelAuxiliar</value>
+  </data>
+  <data name="&gt;&gt;lblContrasena.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;txtUsuario.Name" xml:space="preserve">
+    <value>txtUsuario</value>
+  </data>
+  <data name="&gt;&gt;txtUsuario.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtUsuario.Parent" xml:space="preserve">
+    <value>panelAuxiliar</value>
+  </data>
+  <data name="&gt;&gt;txtUsuario.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="panelAuxiliar.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="panelAuxiliar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>370, 0</value>
+  </data>
+  <data name="panelAuxiliar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>378, 361</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panelAuxiliar.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;panelAuxiliar.Name" xml:space="preserve">
+    <value>panelAuxiliar</value>
+  </data>
+  <data name="&gt;&gt;panelAuxiliar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelAuxiliar.Parent" xml:space="preserve">
+    <value>pnlLogin</value>
+  </data>
+  <data name="&gt;&gt;panelAuxiliar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pictLogin.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pictLogin.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictLogin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pictLogin.Size" type="System.Drawing.Size, System.Drawing">
+    <value>748, 361</value>
+  </data>
+  <data name="pictLogin.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictLogin.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pictLogin.Name" xml:space="preserve">
+    <value>pictLogin</value>
+  </data>
+  <data name="&gt;&gt;pictLogin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictLogin.Parent" xml:space="preserve">
+    <value>pnlLogin</value>
+  </data>
+  <data name="&gt;&gt;pictLogin.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pnlLogin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>287, 188</value>
+  </data>
+  <data name="pnlLogin.Size" type="System.Drawing.Size, System.Drawing">
+    <value>750, 363</value>
+  </data>
+  <data name="pnlLogin.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlLogin.Name" xml:space="preserve">
+    <value>pnlLogin</value>
+  </data>
+  <data name="&gt;&gt;pnlLogin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlLogin.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlLogin.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
   <data name="txtContrasena.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Left</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="txtContrasena.Font" type="System.Drawing.Font, System.Drawing">
     <value>Calibri, 10.2pt</value>
   </data>
   <data name="txtContrasena.Location" type="System.Drawing.Point, System.Drawing">
     <value>53, 256</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="txtContrasena.PasswordChar" type="System.Char, mscorlib" xml:space="preserve">
     <value>*</value>
   </data>
@@ -381,80 +543,164 @@
   <data name="&gt;&gt;txtUsuario.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="panelAuxiliar.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Right</value>
+  <data name="&gt;&gt;lblDesarrollo.Name" xml:space="preserve">
+    <value>lblDesarrollo</value>
   </data>
-  <data name="panelAuxiliar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>370, 0</value>
+  <data name="&gt;&gt;lblDesarrollo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="panelAuxiliar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>378, 361</value>
+  <data name="&gt;&gt;lblDesarrollo.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
   </data>
-  <data name="panelAuxiliar.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;panelAuxiliar.Name" xml:space="preserve">
-    <value>panelAuxiliar</value>
-  </data>
-  <data name="&gt;&gt;panelAuxiliar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panelAuxiliar.Parent" xml:space="preserve">
-    <value>pnlLogin</value>
-  </data>
-  <data name="&gt;&gt;panelAuxiliar.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;lblDesarrollo.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="pictLogin.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="&gt;&gt;lblNombreUsuario.Name" xml:space="preserve">
+    <value>lblNombreUsuario</value>
   </data>
-  <data name="pictLogin.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+  <data name="&gt;&gt;lblNombreUsuario.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="pictLogin.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+  <data name="&gt;&gt;lblNombreUsuario.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
   </data>
-  <data name="pictLogin.Size" type="System.Drawing.Size, System.Drawing">
-    <value>748, 361</value>
-  </data>
-  <data name="pictLogin.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="pictLogin.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pictLogin.Name" xml:space="preserve">
-    <value>pictLogin</value>
-  </data>
-  <data name="&gt;&gt;pictLogin.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictLogin.Parent" xml:space="preserve">
-    <value>pnlLogin</value>
-  </data>
-  <data name="&gt;&gt;pictLogin.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;lblNombreUsuario.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="pnlLogin.Location" type="System.Drawing.Point, System.Drawing">
-    <value>287, 188</value>
+  <data name="&gt;&gt;lblBienvenido.Name" xml:space="preserve">
+    <value>lblBienvenido</value>
   </data>
-  <data name="pnlLogin.Size" type="System.Drawing.Size, System.Drawing">
-    <value>750, 363</value>
+  <data name="&gt;&gt;lblBienvenido.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="pnlLogin.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="&gt;&gt;lblBienvenido.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
   </data>
-  <data name="&gt;&gt;pnlLogin.Name" xml:space="preserve">
-    <value>pnlLogin</value>
+  <data name="&gt;&gt;lblBienvenido.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="&gt;&gt;pnlLogin.Type" xml:space="preserve">
+  <data name="&gt;&gt;pictColapseMenu.Name" xml:space="preserve">
+    <value>pictColapseMenu</value>
+  </data>
+  <data name="&gt;&gt;pictColapseMenu.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictColapseMenu.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
+  </data>
+  <data name="&gt;&gt;pictColapseMenu.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnInicio.Name" xml:space="preserve">
+    <value>btnInicio</value>
+  </data>
+  <data name="&gt;&gt;btnInicio.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnInicio.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
+  </data>
+  <data name="&gt;&gt;btnInicio.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnReportes.Name" xml:space="preserve">
+    <value>btnReportes</value>
+  </data>
+  <data name="&gt;&gt;btnReportes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnReportes.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
+  </data>
+  <data name="&gt;&gt;btnReportes.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnEgresos.Name" xml:space="preserve">
+    <value>btnEgresos</value>
+  </data>
+  <data name="&gt;&gt;btnEgresos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEgresos.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
+  </data>
+  <data name="&gt;&gt;btnEgresos.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btnIngresos.Name" xml:space="preserve">
+    <value>btnIngresos</value>
+  </data>
+  <data name="&gt;&gt;btnIngresos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnIngresos.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
+  </data>
+  <data name="&gt;&gt;btnIngresos.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btnEmpleados.Name" xml:space="preserve">
+    <value>btnEmpleados</value>
+  </data>
+  <data name="&gt;&gt;btnEmpleados.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEmpleados.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
+  </data>
+  <data name="&gt;&gt;btnEmpleados.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;btnCombustibles.Name" xml:space="preserve">
+    <value>btnCombustibles</value>
+  </data>
+  <data name="&gt;&gt;btnCombustibles.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCombustibles.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
+  </data>
+  <data name="&gt;&gt;btnCombustibles.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;btnDispensadores.Name" xml:space="preserve">
+    <value>btnDispensadores</value>
+  </data>
+  <data name="&gt;&gt;btnDispensadores.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDispensadores.Parent" xml:space="preserve">
+    <value>pnlMenu</value>
+  </data>
+  <data name="&gt;&gt;btnDispensadores.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="pnlMenu.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="pnlMenu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlMenu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>245, 703</value>
+  </data>
+  <data name="pnlMenu.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="pnlMenu.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlMenu.Name" xml:space="preserve">
+    <value>pnlMenu</value>
+  </data>
+  <data name="&gt;&gt;pnlMenu.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pnlLogin.Parent" xml:space="preserve">
+  <data name="&gt;&gt;pnlMenu.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;pnlLogin.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;pnlMenu.ZOrder" xml:space="preserve">
+    <value>9</value>
   </data>
   <data name="lblDesarrollo.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Bottom</value>
@@ -1477,35 +1723,413 @@
   <data name="&gt;&gt;btnDispensadores.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="pnlMenu.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="pnlMenu.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="pnlMenu.Size" type="System.Drawing.Size, System.Drawing">
-    <value>245, 703</value>
-  </data>
-  <data name="pnlMenu.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="pnlMenu.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlMenu.Name" xml:space="preserve">
-    <value>pnlMenu</value>
-  </data>
-  <data name="&gt;&gt;pnlMenu.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlMenu.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlMenu.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
   <data name="pnlDispensador1.AutoScroll" type="System.Boolean, mscorlib">
     <value>True</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB1.Name" xml:space="preserve">
+    <value>dgvLadoB1</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB1.Parent" xml:space="preserve">
+    <value>pnlDispensador1</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>pnlDispensador1</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>pnlDispensador1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA1.Name" xml:space="preserve">
+    <value>dgvLadoA1</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA1.Parent" xml:space="preserve">
+    <value>pnlDispensador1</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion1.Name" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion1.Parent" xml:space="preserve">
+    <value>pnlDispensador1</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pnlDispensador1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlDispensador1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 88</value>
+  </data>
+  <data name="pnlDispensador1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 615</value>
+  </data>
+  <data name="pnlDispensador1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador1.Name" xml:space="preserve">
+    <value>pnlDispensador1</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador1.Parent" xml:space="preserve">
+    <value>pnlDispensadores</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pnlDispensador3.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB3.Name" xml:space="preserve">
+    <value>dgvLadoB3</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB3.Parent" xml:space="preserve">
+    <value>pnlDispensador3</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA3.Name" xml:space="preserve">
+    <value>dgvLadoA3</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA3.Parent" xml:space="preserve">
+    <value>pnlDispensador3</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label13.Name" xml:space="preserve">
+    <value>label13</value>
+  </data>
+  <data name="&gt;&gt;label13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label13.Parent" xml:space="preserve">
+    <value>pnlDispensador3</value>
+  </data>
+  <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label14.Name" xml:space="preserve">
+    <value>label14</value>
+  </data>
+  <data name="&gt;&gt;label14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label14.Parent" xml:space="preserve">
+    <value>pnlDispensador3</value>
+  </data>
+  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion3.Name" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion3.Parent" xml:space="preserve">
+    <value>pnlDispensador3</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pnlDispensador3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlDispensador3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 88</value>
+  </data>
+  <data name="pnlDispensador3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 615</value>
+  </data>
+  <data name="pnlDispensador3.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="pnlDispensador3.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador3.Name" xml:space="preserve">
+    <value>pnlDispensador3</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador3.Parent" xml:space="preserve">
+    <value>pnlDispensadores</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pnlDispensador2.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA2.Name" xml:space="preserve">
+    <value>dgvLadoA2</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA2.Parent" xml:space="preserve">
+    <value>pnlDispensador2</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoA2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB2.Name" xml:space="preserve">
+    <value>dgvLadoB2</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB2.Parent" xml:space="preserve">
+    <value>pnlDispensador2</value>
+  </data>
+  <data name="&gt;&gt;dgvLadoB2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>pnlDispensador2</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label8.Name" xml:space="preserve">
+    <value>label8</value>
+  </data>
+  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
+    <value>pnlDispensador2</value>
+  </data>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion2.Name" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion2.Parent" xml:space="preserve">
+    <value>pnlDispensador2</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pnlDispensador2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlDispensador2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 88</value>
+  </data>
+  <data name="pnlDispensador2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 615</value>
+  </data>
+  <data name="pnlDispensador2.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="pnlDispensador2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador2.Name" xml:space="preserve">
+    <value>pnlDispensador2</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador2.Parent" xml:space="preserve">
+    <value>pnlDispensadores</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensador2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pictDispensador2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pictDispensador2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictDispensador2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>345, 0</value>
+  </data>
+  <data name="pictDispensador2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>347, 88</value>
+  </data>
+  <data name="pictDispensador2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictDispensador2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador2.Name" xml:space="preserve">
+    <value>pictDispensador2</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador2.Parent" xml:space="preserve">
+    <value>pnlElegirDispensadores</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pictDispensador3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="pictDispensador3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictDispensador3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>692, 0</value>
+  </data>
+  <data name="pictDispensador3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 88</value>
+  </data>
+  <data name="pictDispensador3.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictDispensador3.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador3.Name" xml:space="preserve">
+    <value>pictDispensador3</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador3.Parent" xml:space="preserve">
+    <value>pnlElegirDispensadores</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pictDispensador1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="pictDispensador1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictDispensador1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pictDispensador1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 88</value>
+  </data>
+  <data name="pictDispensador1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictDispensador1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador1.Name" xml:space="preserve">
+    <value>pictDispensador1</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador1.Parent" xml:space="preserve">
+    <value>pnlElegirDispensadores</value>
+  </data>
+  <data name="&gt;&gt;pictDispensador1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pnlElegirDispensadores.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="pnlElegirDispensadores.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlElegirDispensadores.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 88</value>
+  </data>
+  <data name="pnlElegirDispensadores.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlElegirDispensadores.Name" xml:space="preserve">
+    <value>pnlElegirDispensadores</value>
+  </data>
+  <data name="&gt;&gt;pnlElegirDispensadores.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlElegirDispensadores.Parent" xml:space="preserve">
+    <value>pnlDispensadores</value>
+  </data>
+  <data name="&gt;&gt;pnlElegirDispensadores.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pnlDispensadores.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlDispensadores.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 0</value>
+  </data>
+  <data name="pnlDispensadores.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 703</value>
+  </data>
+  <data name="pnlDispensadores.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="pnlDispensadores.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensadores.Name" xml:space="preserve">
+    <value>pnlDispensadores</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensadores.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensadores.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlDispensadores.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="dgvLadoB1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
@@ -1597,6 +2221,9 @@
   <data name="&gt;&gt;dgvLadoB1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <metadata name="data2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1173, 17</value>
+  </metadata>
   <data name="label6.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1746,6 +2373,198 @@
   </data>
   <data name="&gt;&gt;dgvLadoA1.ZOrder" xml:space="preserve">
     <value>3</value>
+  </data>
+  <data name="&gt;&gt;label39.Name" xml:space="preserve">
+    <value>label39</value>
+  </data>
+  <data name="&gt;&gt;label39.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label39.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;label39.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta1.Name" xml:space="preserve">
+    <value>txtTarjeta1</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta1.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label38.Name" xml:space="preserve">
+    <value>label38</value>
+  </data>
+  <data name="&gt;&gt;label38.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label38.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;label38.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txtVales1.Name" xml:space="preserve">
+    <value>txtVales1</value>
+  </data>
+  <data name="&gt;&gt;txtVales1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtVales1.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;txtVales1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar1.Name" xml:space="preserve">
+    <value>btnAplicar1</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar1.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular1.Name" xml:space="preserve">
+    <value>btnCalcular1</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular1.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa1.Name" xml:space="preserve">
+    <value>txtSoFa1</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa1.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa1.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo1.Name" xml:space="preserve">
+    <value>txtEfectivo1</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo1.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo1.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy1.Name" xml:space="preserve">
+    <value>txtGeneradoHoy1</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy1.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy1.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;cboBomberos1.Name" xml:space="preserve">
+    <value>cboBomberos1</value>
+  </data>
+  <data name="&gt;&gt;cboBomberos1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboBomberos1.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;cboBomberos1.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="pnlRecaudacion1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlRecaudacion1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 515</value>
+  </data>
+  <data name="pnlRecaudacion1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 100</value>
+  </data>
+  <data name="pnlRecaudacion1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion1.Name" xml:space="preserve">
+    <value>pnlRecaudacion1</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion1.Parent" xml:space="preserve">
+    <value>pnlDispensador1</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion1.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="label39.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
@@ -2140,15 +2959,12 @@
   <data name="&gt;&gt;txtGeneradoHoy1.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
-  <data name="cboBomberos1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom</value>
-  </data>
   <metadata name="tblEmpleadoBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>698, 17</value>
   </metadata>
-  <metadata name="data1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>603, 17</value>
-  </metadata>
+  <data name="cboBomberos1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom</value>
+  </data>
   <data name="cboBomberos1.Location" type="System.Drawing.Point, System.Drawing">
     <value>8, 48</value>
   </data>
@@ -2170,6 +2986,15 @@
   <data name="&gt;&gt;cboBomberos1.ZOrder" xml:space="preserve">
     <value>12</value>
   </data>
+  <metadata name="tblEmpleadoBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>698, 17</value>
+  </metadata>
+  <metadata name="data1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>603, 17</value>
+  </metadata>
+  <metadata name="data1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>603, 17</value>
+  </metadata>
   <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
   </data>
@@ -2205,57 +3030,6 @@
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
     <value>13</value>
-  </data>
-  <data name="pnlRecaudacion1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlRecaudacion1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 515</value>
-  </data>
-  <data name="pnlRecaudacion1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 100</value>
-  </data>
-  <data name="pnlRecaudacion1.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion1.Name" xml:space="preserve">
-    <value>pnlRecaudacion1</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion1.Parent" xml:space="preserve">
-    <value>pnlDispensador1</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion1.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="pnlDispensador1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlDispensador1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 88</value>
-  </data>
-  <data name="pnlDispensador1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 615</value>
-  </data>
-  <data name="pnlDispensador1.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador1.Name" xml:space="preserve">
-    <value>pnlDispensador1</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador1.Parent" xml:space="preserve">
-    <value>pnlDispensadores</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="pnlDispensador3.AutoScroll" type="System.Boolean, mscorlib">
-    <value>True</value>
   </data>
   <data name="dgvLadoB3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
@@ -2490,6 +3264,198 @@
   </data>
   <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
     <value>3</value>
+  </data>
+  <data name="&gt;&gt;label35.Name" xml:space="preserve">
+    <value>label35</value>
+  </data>
+  <data name="&gt;&gt;label35.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label35.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;label35.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta3.Name" xml:space="preserve">
+    <value>txtTarjeta3</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta3.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label34.Name" xml:space="preserve">
+    <value>label34</value>
+  </data>
+  <data name="&gt;&gt;label34.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label34.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;label34.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txtVales3.Name" xml:space="preserve">
+    <value>txtVales3</value>
+  </data>
+  <data name="&gt;&gt;txtVales3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtVales3.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;txtVales3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar3.Name" xml:space="preserve">
+    <value>btnAplicar3</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar3.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular3.Name" xml:space="preserve">
+    <value>btnCalcular3</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular3.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular3.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label15.Name" xml:space="preserve">
+    <value>label15</value>
+  </data>
+  <data name="&gt;&gt;label15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label15.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa3.Name" xml:space="preserve">
+    <value>txtSoFa3</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa3.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa3.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;label16.Name" xml:space="preserve">
+    <value>label16</value>
+  </data>
+  <data name="&gt;&gt;label16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label16.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo3.Name" xml:space="preserve">
+    <value>txtEfectivo3</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo3.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo3.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;label17.Name" xml:space="preserve">
+    <value>label17</value>
+  </data>
+  <data name="&gt;&gt;label17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label17.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;label17.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy3.Name" xml:space="preserve">
+    <value>txtGeneradoHoy3</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy3.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy3.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;cboBombero3.Name" xml:space="preserve">
+    <value>cboBombero3</value>
+  </data>
+  <data name="&gt;&gt;cboBombero3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboBombero3.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;cboBombero3.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;label18.Name" xml:space="preserve">
+    <value>label18</value>
+  </data>
+  <data name="&gt;&gt;label18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label18.Parent" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="pnlRecaudacion3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlRecaudacion3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 515</value>
+  </data>
+  <data name="pnlRecaudacion3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 100</value>
+  </data>
+  <data name="pnlRecaudacion3.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion3.Name" xml:space="preserve">
+    <value>pnlRecaudacion3</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion3.Parent" xml:space="preserve">
+    <value>pnlDispensador3</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion3.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="label35.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
@@ -2944,60 +3910,6 @@
   <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
-  <data name="pnlRecaudacion3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlRecaudacion3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 515</value>
-  </data>
-  <data name="pnlRecaudacion3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 100</value>
-  </data>
-  <data name="pnlRecaudacion3.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion3.Name" xml:space="preserve">
-    <value>pnlRecaudacion3</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion3.Parent" xml:space="preserve">
-    <value>pnlDispensador3</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion3.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="pnlDispensador3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlDispensador3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 88</value>
-  </data>
-  <data name="pnlDispensador3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 615</value>
-  </data>
-  <data name="pnlDispensador3.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="pnlDispensador3.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador3.Name" xml:space="preserve">
-    <value>pnlDispensador3</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador3.Parent" xml:space="preserve">
-    <value>pnlDispensadores</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador3.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="pnlDispensador2.AutoScroll" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="dgvLadoA2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
   </data>
@@ -3231,6 +4143,198 @@
   </data>
   <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
     <value>3</value>
+  </data>
+  <data name="&gt;&gt;label37.Name" xml:space="preserve">
+    <value>label37</value>
+  </data>
+  <data name="&gt;&gt;label37.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label37.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;label37.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta2.Name" xml:space="preserve">
+    <value>txtTarjeta2</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta2.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;txtTarjeta2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label36.Name" xml:space="preserve">
+    <value>label36</value>
+  </data>
+  <data name="&gt;&gt;label36.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label36.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;label36.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txtVales2.Name" xml:space="preserve">
+    <value>txtVales2</value>
+  </data>
+  <data name="&gt;&gt;txtVales2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtVales2.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;txtVales2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar2.Name" xml:space="preserve">
+    <value>btnAplicar2</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar2.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;btnAplicar2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular2.Name" xml:space="preserve">
+    <value>btnCalcular2</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular2.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;btnCalcular2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa2.Name" xml:space="preserve">
+    <value>txtSoFa2</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa2.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;txtSoFa2.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;label10.Name" xml:space="preserve">
+    <value>label10</value>
+  </data>
+  <data name="&gt;&gt;label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo2.Name" xml:space="preserve">
+    <value>txtEfectivo2</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo2.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;txtEfectivo2.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
+  </data>
+  <data name="&gt;&gt;label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy2.Name" xml:space="preserve">
+    <value>txtGeneradoHoy2</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy2.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;txtGeneradoHoy2.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;cboBombero2.Name" xml:space="preserve">
+    <value>cboBombero2</value>
+  </data>
+  <data name="&gt;&gt;cboBombero2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboBombero2.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;cboBombero2.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;label12.Name" xml:space="preserve">
+    <value>label12</value>
+  </data>
+  <data name="&gt;&gt;label12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label12.Parent" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="pnlRecaudacion2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlRecaudacion2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 515</value>
+  </data>
+  <data name="pnlRecaudacion2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 100</value>
+  </data>
+  <data name="pnlRecaudacion2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion2.Name" xml:space="preserve">
+    <value>pnlRecaudacion2</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion2.Parent" xml:space="preserve">
+    <value>pnlDispensador2</value>
+  </data>
+  <data name="&gt;&gt;pnlRecaudacion2.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="label37.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
@@ -3684,198 +4788,6 @@
   </data>
   <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
     <value>13</value>
-  </data>
-  <data name="pnlRecaudacion2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlRecaudacion2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 515</value>
-  </data>
-  <data name="pnlRecaudacion2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 100</value>
-  </data>
-  <data name="pnlRecaudacion2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion2.Name" xml:space="preserve">
-    <value>pnlRecaudacion2</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion2.Parent" xml:space="preserve">
-    <value>pnlDispensador2</value>
-  </data>
-  <data name="&gt;&gt;pnlRecaudacion2.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="pnlDispensador2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlDispensador2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 88</value>
-  </data>
-  <data name="pnlDispensador2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 615</value>
-  </data>
-  <data name="pnlDispensador2.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="pnlDispensador2.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador2.Name" xml:space="preserve">
-    <value>pnlDispensador2</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador2.Parent" xml:space="preserve">
-    <value>pnlDispensadores</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensador2.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="pictDispensador2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pictDispensador2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictDispensador2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>345, 0</value>
-  </data>
-  <data name="pictDispensador2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>347, 88</value>
-  </data>
-  <data name="pictDispensador2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictDispensador2.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador2.Name" xml:space="preserve">
-    <value>pictDispensador2</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador2.Parent" xml:space="preserve">
-    <value>pnlElegirDispensadores</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="pictDispensador3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Right</value>
-  </data>
-  <data name="pictDispensador3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictDispensador3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>692, 0</value>
-  </data>
-  <data name="pictDispensador3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>345, 88</value>
-  </data>
-  <data name="pictDispensador3.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictDispensador3.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador3.Name" xml:space="preserve">
-    <value>pictDispensador3</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador3.Parent" xml:space="preserve">
-    <value>pnlElegirDispensadores</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador3.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="pictDispensador1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="pictDispensador1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictDispensador1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="pictDispensador1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>345, 88</value>
-  </data>
-  <data name="pictDispensador1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictDispensador1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador1.Name" xml:space="preserve">
-    <value>pictDispensador1</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador1.Parent" xml:space="preserve">
-    <value>pnlElegirDispensadores</value>
-  </data>
-  <data name="&gt;&gt;pictDispensador1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="pnlElegirDispensadores.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="pnlElegirDispensadores.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="pnlElegirDispensadores.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 88</value>
-  </data>
-  <data name="pnlElegirDispensadores.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pnlElegirDispensadores.Name" xml:space="preserve">
-    <value>pnlElegirDispensadores</value>
-  </data>
-  <data name="&gt;&gt;pnlElegirDispensadores.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlElegirDispensadores.Parent" xml:space="preserve">
-    <value>pnlDispensadores</value>
-  </data>
-  <data name="&gt;&gt;pnlElegirDispensadores.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="pnlDispensadores.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlDispensadores.Location" type="System.Drawing.Point, System.Drawing">
-    <value>245, 0</value>
-  </data>
-  <data name="pnlDispensadores.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 703</value>
-  </data>
-  <data name="pnlDispensadores.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="pnlDispensadores.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensadores.Name" xml:space="preserve">
-    <value>pnlDispensadores</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensadores.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensadores.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlDispensadores.ZOrder" xml:space="preserve">
-    <value>3</value>
   </data>
   <metadata name="dispensadoresBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 60</value>
@@ -33243,6 +34155,105 @@
   <metadata name="tblEmpleadoTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>939, 17</value>
   </metadata>
+  <data name="&gt;&gt;pnlMostrarEmpleados.Name" xml:space="preserve">
+    <value>pnlMostrarEmpleados</value>
+  </data>
+  <data name="&gt;&gt;pnlMostrarEmpleados.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlMostrarEmpleados.Parent" xml:space="preserve">
+    <value>pnlEmpleados</value>
+  </data>
+  <data name="&gt;&gt;pnlMostrarEmpleados.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlCategoriaEmpleados.Name" xml:space="preserve">
+    <value>pnlCategoriaEmpleados</value>
+  </data>
+  <data name="&gt;&gt;pnlCategoriaEmpleados.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlCategoriaEmpleados.Parent" xml:space="preserve">
+    <value>pnlEmpleados</value>
+  </data>
+  <data name="&gt;&gt;pnlCategoriaEmpleados.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleadosBotones.Name" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleadosBotones.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleadosBotones.Parent" xml:space="preserve">
+    <value>pnlEmpleados</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleadosBotones.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pnlEmpleados.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlEmpleados.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 0</value>
+  </data>
+  <data name="pnlEmpleados.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 703</value>
+  </data>
+  <data name="pnlEmpleados.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="pnlEmpleados.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleados.Name" xml:space="preserve">
+    <value>pnlEmpleados</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleados.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleados.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleados.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;dgvEmpleados.Name" xml:space="preserve">
+    <value>dgvEmpleados</value>
+  </data>
+  <data name="&gt;&gt;dgvEmpleados.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvEmpleados.Parent" xml:space="preserve">
+    <value>pnlMostrarEmpleados</value>
+  </data>
+  <data name="&gt;&gt;dgvEmpleados.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pnlMostrarEmpleados.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlMostrarEmpleados.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlMostrarEmpleados.Size" type="System.Drawing.Size, System.Drawing">
+    <value>898, 603</value>
+  </data>
+  <data name="pnlMostrarEmpleados.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;pnlMostrarEmpleados.Name" xml:space="preserve">
+    <value>pnlMostrarEmpleados</value>
+  </data>
+  <data name="&gt;&gt;pnlMostrarEmpleados.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlMostrarEmpleados.Parent" xml:space="preserve">
+    <value>pnlEmpleados</value>
+  </data>
+  <data name="&gt;&gt;pnlMostrarEmpleados.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="dgvEmpleados.ColumnHeadersHeight" type="System.Int32, mscorlib">
     <value>40</value>
   </data>
@@ -33351,29 +34362,44 @@
   <data name="&gt;&gt;dgvEmpleados.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="pnlMostrarEmpleados.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <metadata name="data3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>278, 60</value>
+  </metadata>
+  <data name="&gt;&gt;dgvTipoEmpleados.Name" xml:space="preserve">
+    <value>dgvTipoEmpleados</value>
   </data>
-  <data name="pnlMostrarEmpleados.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+  <data name="&gt;&gt;dgvTipoEmpleados.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="pnlMostrarEmpleados.Size" type="System.Drawing.Size, System.Drawing">
-    <value>898, 603</value>
+  <data name="&gt;&gt;dgvTipoEmpleados.Parent" xml:space="preserve">
+    <value>pnlCategoriaEmpleados</value>
   </data>
-  <data name="pnlMostrarEmpleados.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="&gt;&gt;dgvTipoEmpleados.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="&gt;&gt;pnlMostrarEmpleados.Name" xml:space="preserve">
-    <value>pnlMostrarEmpleados</value>
+  <data name="pnlCategoriaEmpleados.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
   </data>
-  <data name="&gt;&gt;pnlMostrarEmpleados.Type" xml:space="preserve">
+  <data name="pnlCategoriaEmpleados.Location" type="System.Drawing.Point, System.Drawing">
+    <value>898, 0</value>
+  </data>
+  <data name="pnlCategoriaEmpleados.Size" type="System.Drawing.Size, System.Drawing">
+    <value>139, 603</value>
+  </data>
+  <data name="pnlCategoriaEmpleados.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pnlCategoriaEmpleados.Name" xml:space="preserve">
+    <value>pnlCategoriaEmpleados</value>
+  </data>
+  <data name="&gt;&gt;pnlCategoriaEmpleados.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pnlMostrarEmpleados.Parent" xml:space="preserve">
+  <data name="&gt;&gt;pnlCategoriaEmpleados.Parent" xml:space="preserve">
     <value>pnlEmpleados</value>
   </data>
-  <data name="&gt;&gt;pnlMostrarEmpleados.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;pnlCategoriaEmpleados.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="dgvTipoEmpleados.ColumnHeadersHeight" type="System.Int32, mscorlib">
     <value>40</value>
@@ -33429,29 +34455,152 @@
   <data name="&gt;&gt;dgvTipoEmpleados.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="pnlCategoriaEmpleados.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Right</value>
+  <metadata name="data4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>940, 60</value>
+  </metadata>
+  <data name="&gt;&gt;label27.Name" xml:space="preserve">
+    <value>label27</value>
   </data>
-  <data name="pnlCategoriaEmpleados.Location" type="System.Drawing.Point, System.Drawing">
-    <value>898, 0</value>
+  <data name="&gt;&gt;label27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="pnlCategoriaEmpleados.Size" type="System.Drawing.Size, System.Drawing">
-    <value>139, 603</value>
+  <data name="&gt;&gt;label27.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
   </data>
-  <data name="pnlCategoriaEmpleados.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;label27.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label26.Name" xml:space="preserve">
+    <value>label26</value>
+  </data>
+  <data name="&gt;&gt;label26.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label26.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;label26.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarEmp.Name" xml:space="preserve">
+    <value>btnLimpiarEmp</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarEmp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarEmp.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarEmp.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;pnlCategoriaEmpleados.Name" xml:space="preserve">
-    <value>pnlCategoriaEmpleados</value>
+  <data name="&gt;&gt;bnBuscarEmpleado.Name" xml:space="preserve">
+    <value>bnBuscarEmpleado</value>
   </data>
-  <data name="&gt;&gt;pnlCategoriaEmpleados.Type" xml:space="preserve">
+  <data name="&gt;&gt;bnBuscarEmpleado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bnBuscarEmpleado.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;bnBuscarEmpleado.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarEmpNombre.Name" xml:space="preserve">
+    <value>txtBuscarEmpNombre</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarEmpNombre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarEmpNombre.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarEmpNombre.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnModEmpleado.Name" xml:space="preserve">
+    <value>btnModEmpleado</value>
+  </data>
+  <data name="&gt;&gt;btnModEmpleado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnModEmpleado.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnModEmpleado.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnDesacEmpleado.Name" xml:space="preserve">
+    <value>btnDesacEmpleado</value>
+  </data>
+  <data name="&gt;&gt;btnDesacEmpleado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDesacEmpleado.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnDesacEmpleado.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoEmpleado.Name" xml:space="preserve">
+    <value>btnAgregarTipoEmpleado</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoEmpleado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoEmpleado.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoEmpleado.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarEmpleado.Name" xml:space="preserve">
+    <value>btnAgregarEmpleado</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarEmpleado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarEmpleado.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarEmpleado.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;btnActEmpleado.Name" xml:space="preserve">
+    <value>btnActEmpleado</value>
+  </data>
+  <data name="&gt;&gt;btnActEmpleado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnActEmpleado.Parent" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnActEmpleado.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="pnlEmpleadosBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlEmpleadosBotones.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 603</value>
+  </data>
+  <data name="pnlEmpleadosBotones.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 100</value>
+  </data>
+  <data name="pnlEmpleadosBotones.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleadosBotones.Name" xml:space="preserve">
+    <value>pnlEmpleadosBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlEmpleadosBotones.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pnlCategoriaEmpleados.Parent" xml:space="preserve">
+  <data name="&gt;&gt;pnlEmpleadosBotones.Parent" xml:space="preserve">
     <value>pnlEmpleados</value>
   </data>
-  <data name="&gt;&gt;pnlCategoriaEmpleados.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="&gt;&gt;pnlEmpleadosBotones.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="label27.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
@@ -33750,63 +34899,123 @@
   <data name="&gt;&gt;btnActEmpleado.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="pnlEmpleadosBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlEmpleadosBotones.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 603</value>
-  </data>
-  <data name="pnlEmpleadosBotones.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 100</value>
-  </data>
-  <data name="pnlEmpleadosBotones.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;pnlEmpleadosBotones.Name" xml:space="preserve">
-    <value>pnlEmpleadosBotones</value>
-  </data>
-  <data name="&gt;&gt;pnlEmpleadosBotones.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlEmpleadosBotones.Parent" xml:space="preserve">
-    <value>pnlEmpleados</value>
-  </data>
-  <data name="&gt;&gt;pnlEmpleadosBotones.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="pnlEmpleados.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlEmpleados.Location" type="System.Drawing.Point, System.Drawing">
-    <value>245, 0</value>
-  </data>
-  <data name="pnlEmpleados.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 703</value>
-  </data>
-  <data name="pnlEmpleados.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="pnlEmpleados.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlEmpleados.Name" xml:space="preserve">
-    <value>pnlEmpleados</value>
-  </data>
-  <data name="&gt;&gt;pnlEmpleados.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlEmpleados.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlEmpleados.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
   <metadata name="empleadosConTipoTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>660, 60</value>
   </metadata>
   <metadata name="tiposDeEmpleadosTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 103</value>
   </metadata>
+  <data name="&gt;&gt;label33.Name" xml:space="preserve">
+    <value>label33</value>
+  </data>
+  <data name="&gt;&gt;label33.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label33.Parent" xml:space="preserve">
+    <value>pnlCombustibles</value>
+  </data>
+  <data name="&gt;&gt;label33.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;dgvUltimasCompras.Name" xml:space="preserve">
+    <value>dgvUltimasCompras</value>
+  </data>
+  <data name="&gt;&gt;dgvUltimasCompras.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvUltimasCompras.Parent" xml:space="preserve">
+    <value>pnlCombustibles</value>
+  </data>
+  <data name="&gt;&gt;dgvUltimasCompras.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label20.Name" xml:space="preserve">
+    <value>label20</value>
+  </data>
+  <data name="&gt;&gt;label20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label20.Parent" xml:space="preserve">
+    <value>pnlCombustibles</value>
+  </data>
+  <data name="&gt;&gt;label20.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;dgvProveedores.Name" xml:space="preserve">
+    <value>dgvProveedores</value>
+  </data>
+  <data name="&gt;&gt;dgvProveedores.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvProveedores.Parent" xml:space="preserve">
+    <value>pnlCombustibles</value>
+  </data>
+  <data name="&gt;&gt;dgvProveedores.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label19.Name" xml:space="preserve">
+    <value>label19</value>
+  </data>
+  <data name="&gt;&gt;label19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label19.Parent" xml:space="preserve">
+    <value>pnlCombustibles</value>
+  </data>
+  <data name="&gt;&gt;label19.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonesCombustibles.Name" xml:space="preserve">
+    <value>pnlBotonesCombustibles</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonesCombustibles.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonesCombustibles.Parent" xml:space="preserve">
+    <value>pnlCombustibles</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonesCombustibles.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;dgvCombustibles.Name" xml:space="preserve">
+    <value>dgvCombustibles</value>
+  </data>
+  <data name="&gt;&gt;dgvCombustibles.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvCombustibles.Parent" xml:space="preserve">
+    <value>pnlCombustibles</value>
+  </data>
+  <data name="&gt;&gt;dgvCombustibles.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="pnlCombustibles.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlCombustibles.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 0</value>
+  </data>
+  <data name="pnlCombustibles.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 703</value>
+  </data>
+  <data name="pnlCombustibles.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="pnlCombustibles.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlCombustibles.Name" xml:space="preserve">
+    <value>pnlCombustibles</value>
+  </data>
+  <data name="&gt;&gt;pnlCombustibles.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlCombustibles.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlCombustibles.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
   <data name="label33.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
   </data>
@@ -33924,6 +35133,9 @@
   <data name="&gt;&gt;dgvUltimasCompras.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <metadata name="data8.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>612, 275</value>
+  </metadata>
   <data name="label20.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
   </data>
@@ -34062,6 +35274,66 @@
   <data name="&gt;&gt;label19.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <data name="&gt;&gt;btnAgregarProveedor.Name" xml:space="preserve">
+    <value>btnAgregarProveedor</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarProveedor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarProveedor.Parent" xml:space="preserve">
+    <value>pnlBotonesCombustibles</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarProveedor.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnComprarCombustible.Name" xml:space="preserve">
+    <value>btnComprarCombustible</value>
+  </data>
+  <data name="&gt;&gt;btnComprarCombustible.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnComprarCombustible.Parent" xml:space="preserve">
+    <value>pnlBotonesCombustibles</value>
+  </data>
+  <data name="&gt;&gt;btnComprarCombustible.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnCambiarPrecio.Name" xml:space="preserve">
+    <value>btnCambiarPrecio</value>
+  </data>
+  <data name="&gt;&gt;btnCambiarPrecio.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCambiarPrecio.Parent" xml:space="preserve">
+    <value>pnlBotonesCombustibles</value>
+  </data>
+  <data name="&gt;&gt;btnCambiarPrecio.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pnlBotonesCombustibles.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlBotonesCombustibles.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 625</value>
+  </data>
+  <data name="pnlBotonesCombustibles.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1035, 76</value>
+  </data>
+  <data name="pnlBotonesCombustibles.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonesCombustibles.Name" xml:space="preserve">
+    <value>pnlBotonesCombustibles</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonesCombustibles.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonesCombustibles.Parent" xml:space="preserve">
+    <value>pnlCombustibles</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonesCombustibles.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
   <data name="btnAgregarProveedor.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
   </data>
@@ -34149,30 +35421,6 @@
   <data name="&gt;&gt;btnCambiarPrecio.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="pnlBotonesCombustibles.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlBotonesCombustibles.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 625</value>
-  </data>
-  <data name="pnlBotonesCombustibles.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1035, 76</value>
-  </data>
-  <data name="pnlBotonesCombustibles.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;pnlBotonesCombustibles.Name" xml:space="preserve">
-    <value>pnlBotonesCombustibles</value>
-  </data>
-  <data name="&gt;&gt;pnlBotonesCombustibles.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlBotonesCombustibles.Parent" xml:space="preserve">
-    <value>pnlCombustibles</value>
-  </data>
-  <data name="&gt;&gt;pnlBotonesCombustibles.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
   <data name="dgvCombustibles.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Left, Right</value>
   </data>
@@ -34239,39 +35487,78 @@
   <data name="&gt;&gt;dgvCombustibles.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="pnlCombustibles.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlCombustibles.Location" type="System.Drawing.Point, System.Drawing">
-    <value>245, 0</value>
-  </data>
-  <data name="pnlCombustibles.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 703</value>
-  </data>
-  <data name="pnlCombustibles.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="pnlCombustibles.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlCombustibles.Name" xml:space="preserve">
-    <value>pnlCombustibles</value>
-  </data>
-  <data name="&gt;&gt;pnlCombustibles.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlCombustibles.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlCombustibles.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
+  <metadata name="data5.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1282, 103</value>
+  </metadata>
   <metadata name="tblProveedorTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>1046, 103</value>
   </metadata>
   <metadata name="tblCombustibleTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>276, 146</value>
   </metadata>
+  <data name="&gt;&gt;dgvEgresos.Name" xml:space="preserve">
+    <value>dgvEgresos</value>
+  </data>
+  <data name="&gt;&gt;dgvEgresos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvEgresos.Parent" xml:space="preserve">
+    <value>pnlEgresos</value>
+  </data>
+  <data name="&gt;&gt;dgvEgresos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos15Dias.Name" xml:space="preserve">
+    <value>pnlEgresos15Dias</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos15Dias.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos15Dias.Parent" xml:space="preserve">
+    <value>pnlEgresos</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos15Dias.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresosBotones.Name" xml:space="preserve">
+    <value>pnlEgresosBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresosBotones.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresosBotones.Parent" xml:space="preserve">
+    <value>pnlEgresos</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresosBotones.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pnlEgresos.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlEgresos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 0</value>
+  </data>
+  <data name="pnlEgresos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 703</value>
+  </data>
+  <data name="pnlEgresos.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="pnlEgresos.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos.Name" xml:space="preserve">
+    <value>pnlEgresos</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
   <data name="dgvEgresos.ColumnHeadersHeight" type="System.Int32, mscorlib">
     <value>40</value>
   </data>
@@ -34340,6 +35627,78 @@
   </data>
   <data name="&gt;&gt;dgvEgresos.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="&gt;&gt;label22.Name" xml:space="preserve">
+    <value>label22</value>
+  </data>
+  <data name="&gt;&gt;label22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label22.Parent" xml:space="preserve">
+    <value>pnlEgresos15Dias</value>
+  </data>
+  <data name="&gt;&gt;label22.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtTotalEgresos15Dias.Name" xml:space="preserve">
+    <value>txtTotalEgresos15Dias</value>
+  </data>
+  <data name="&gt;&gt;txtTotalEgresos15Dias.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtTotalEgresos15Dias.Parent" xml:space="preserve">
+    <value>pnlEgresos15Dias</value>
+  </data>
+  <data name="&gt;&gt;txtTotalEgresos15Dias.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label21.Name" xml:space="preserve">
+    <value>label21</value>
+  </data>
+  <data name="&gt;&gt;label21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label21.Parent" xml:space="preserve">
+    <value>pnlEgresos15Dias</value>
+  </data>
+  <data name="&gt;&gt;label21.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;dgvTotalTipoEgreso.Name" xml:space="preserve">
+    <value>dgvTotalTipoEgreso</value>
+  </data>
+  <data name="&gt;&gt;dgvTotalTipoEgreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvTotalTipoEgreso.Parent" xml:space="preserve">
+    <value>pnlEgresos15Dias</value>
+  </data>
+  <data name="&gt;&gt;dgvTotalTipoEgreso.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pnlEgresos15Dias.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="pnlEgresos15Dias.Location" type="System.Drawing.Point, System.Drawing">
+    <value>790, 0</value>
+  </data>
+  <data name="pnlEgresos15Dias.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 603</value>
+  </data>
+  <data name="pnlEgresos15Dias.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos15Dias.Name" xml:space="preserve">
+    <value>pnlEgresos15Dias</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos15Dias.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos15Dias.Parent" xml:space="preserve">
+    <value>pnlEgresos</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresos15Dias.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="label22.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -34485,29 +35844,113 @@
   <data name="&gt;&gt;dgvTotalTipoEgreso.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="pnlEgresos15Dias.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Right</value>
+  <data name="&gt;&gt;label31.Name" xml:space="preserve">
+    <value>label31</value>
   </data>
-  <data name="pnlEgresos15Dias.Location" type="System.Drawing.Point, System.Drawing">
-    <value>790, 0</value>
+  <data name="&gt;&gt;label31.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="pnlEgresos15Dias.Size" type="System.Drawing.Size, System.Drawing">
-    <value>247, 603</value>
+  <data name="&gt;&gt;label31.Parent" xml:space="preserve">
+    <value>pnlEgresosBotones</value>
   </data>
-  <data name="pnlEgresos15Dias.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;label31.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label32.Name" xml:space="preserve">
+    <value>label32</value>
+  </data>
+  <data name="&gt;&gt;label32.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label32.Parent" xml:space="preserve">
+    <value>pnlEgresosBotones</value>
+  </data>
+  <data name="&gt;&gt;label32.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarEgreso.Name" xml:space="preserve">
+    <value>btnLimpiarEgreso</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarEgreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarEgreso.Parent" xml:space="preserve">
+    <value>pnlEgresosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarEgreso.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;pnlEgresos15Dias.Name" xml:space="preserve">
-    <value>pnlEgresos15Dias</value>
+  <data name="&gt;&gt;btnBuscarEgreso.Name" xml:space="preserve">
+    <value>btnBuscarEgreso</value>
   </data>
-  <data name="&gt;&gt;pnlEgresos15Dias.Type" xml:space="preserve">
+  <data name="&gt;&gt;btnBuscarEgreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnBuscarEgreso.Parent" xml:space="preserve">
+    <value>pnlEgresosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnBuscarEgreso.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarEgPorConcepto.Name" xml:space="preserve">
+    <value>txtBuscarEgPorConcepto</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarEgPorConcepto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarEgPorConcepto.Parent" xml:space="preserve">
+    <value>pnlEgresosBotones</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarEgPorConcepto.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoEgreso.Name" xml:space="preserve">
+    <value>btnAgregarTipoEgreso</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoEgreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoEgreso.Parent" xml:space="preserve">
+    <value>pnlEgresosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoEgreso.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarEgreso.Name" xml:space="preserve">
+    <value>btnAgregarEgreso</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarEgreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarEgreso.Parent" xml:space="preserve">
+    <value>pnlEgresosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarEgreso.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="pnlEgresosBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlEgresosBotones.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 603</value>
+  </data>
+  <data name="pnlEgresosBotones.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 100</value>
+  </data>
+  <data name="pnlEgresosBotones.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresosBotones.Name" xml:space="preserve">
+    <value>pnlEgresosBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlEgresosBotones.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pnlEgresos15Dias.Parent" xml:space="preserve">
+  <data name="&gt;&gt;pnlEgresosBotones.Parent" xml:space="preserve">
     <value>pnlEgresos</value>
   </data>
-  <data name="&gt;&gt;pnlEgresos15Dias.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="&gt;&gt;pnlEgresosBotones.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="label31.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
@@ -34722,57 +36165,6 @@
   <data name="&gt;&gt;btnAgregarEgreso.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="pnlEgresosBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlEgresosBotones.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 603</value>
-  </data>
-  <data name="pnlEgresosBotones.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 100</value>
-  </data>
-  <data name="pnlEgresosBotones.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pnlEgresosBotones.Name" xml:space="preserve">
-    <value>pnlEgresosBotones</value>
-  </data>
-  <data name="&gt;&gt;pnlEgresosBotones.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlEgresosBotones.Parent" xml:space="preserve">
-    <value>pnlEgresos</value>
-  </data>
-  <data name="&gt;&gt;pnlEgresosBotones.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="pnlEgresos.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlEgresos.Location" type="System.Drawing.Point, System.Drawing">
-    <value>245, 0</value>
-  </data>
-  <data name="pnlEgresos.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 703</value>
-  </data>
-  <data name="pnlEgresos.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="pnlEgresos.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlEgresos.Name" xml:space="preserve">
-    <value>pnlEgresos</value>
-  </data>
-  <data name="&gt;&gt;pnlEgresos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlEgresos.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlEgresos.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
   <metadata name="egresosConTipoTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>793, 146</value>
   </metadata>
@@ -34782,6 +36174,69 @@
   <metadata name="numeracionesTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>569, 189</value>
   </metadata>
+  <data name="&gt;&gt;dgvIngresos.Name" xml:space="preserve">
+    <value>dgvIngresos</value>
+  </data>
+  <data name="&gt;&gt;dgvIngresos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvIngresos.Parent" xml:space="preserve">
+    <value>pnlIngresos</value>
+  </data>
+  <data name="&gt;&gt;dgvIngresos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>pnlIngresos</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresosBotones.Name" xml:space="preserve">
+    <value>pnlIngresosBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresosBotones.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresosBotones.Parent" xml:space="preserve">
+    <value>pnlIngresos</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresosBotones.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pnlIngresos.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlIngresos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 0</value>
+  </data>
+  <data name="pnlIngresos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 703</value>
+  </data>
+  <data name="pnlIngresos.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="pnlIngresos.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresos.Name" xml:space="preserve">
+    <value>pnlIngresos</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresos.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresos.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
   <data name="dgvIngresos.ColumnHeadersHeight" type="System.Int32, mscorlib">
     <value>40</value>
   </data>
@@ -34853,6 +36308,81 @@
   </data>
   <data name="&gt;&gt;dgvIngresos.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <metadata name="data6.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>812, 189</value>
+  </metadata>
+  <data name="&gt;&gt;label23.Name" xml:space="preserve">
+    <value>label23</value>
+  </data>
+  <data name="&gt;&gt;label23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label23.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;label23.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtTotalIngreso15Dias.Name" xml:space="preserve">
+    <value>txtTotalIngreso15Dias</value>
+  </data>
+  <data name="&gt;&gt;txtTotalIngreso15Dias.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtTotalIngreso15Dias.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;txtTotalIngreso15Dias.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;label24.Name" xml:space="preserve">
+    <value>label24</value>
+  </data>
+  <data name="&gt;&gt;label24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label24.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;label24.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;dgvTotalTipoIngreso15Dias.Name" xml:space="preserve">
+    <value>dgvTotalTipoIngreso15Dias</value>
+  </data>
+  <data name="&gt;&gt;dgvTotalTipoIngreso15Dias.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvTotalTipoIngreso15Dias.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;dgvTotalTipoIngreso15Dias.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="panel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>790, 0</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 609</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>pnlIngresos</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="label23.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -35004,29 +36534,116 @@
   <data name="&gt;&gt;dgvTotalTipoIngreso15Dias.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="panel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Right</value>
+  <metadata name="data7.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 232</value>
+  </metadata>
+  <data name="&gt;&gt;label28.Name" xml:space="preserve">
+    <value>label28</value>
   </data>
-  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>790, 0</value>
+  <data name="&gt;&gt;label28.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>247, 609</value>
+  <data name="&gt;&gt;label28.Parent" xml:space="preserve">
+    <value>pnlIngresosBotones</value>
   </data>
-  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;label28.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label30.Name" xml:space="preserve">
+    <value>label30</value>
+  </data>
+  <data name="&gt;&gt;label30.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label30.Parent" xml:space="preserve">
+    <value>pnlIngresosBotones</value>
+  </data>
+  <data name="&gt;&gt;label30.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarIngreso.Name" xml:space="preserve">
+    <value>btnLimpiarIngreso</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarIngreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarIngreso.Parent" xml:space="preserve">
+    <value>pnlIngresosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnLimpiarIngreso.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
-    <value>panel2</value>
+  <data name="&gt;&gt;btnBuscarIngreso.Name" xml:space="preserve">
+    <value>btnBuscarIngreso</value>
   </data>
-  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+  <data name="&gt;&gt;btnBuscarIngreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnBuscarIngreso.Parent" xml:space="preserve">
+    <value>pnlIngresosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnBuscarIngreso.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarIngConcepto.Name" xml:space="preserve">
+    <value>txtBuscarIngConcepto</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarIngConcepto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarIngConcepto.Parent" xml:space="preserve">
+    <value>pnlIngresosBotones</value>
+  </data>
+  <data name="&gt;&gt;txtBuscarIngConcepto.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoIngreso.Name" xml:space="preserve">
+    <value>btnAgregarTipoIngreso</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoIngreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoIngreso.Parent" xml:space="preserve">
+    <value>pnlIngresosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarTipoIngreso.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarIngreso.Name" xml:space="preserve">
+    <value>btnAgregarIngreso</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarIngreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarIngreso.Parent" xml:space="preserve">
+    <value>pnlIngresosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnAgregarIngreso.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="pnlIngresosBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlIngresosBotones.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 609</value>
+  </data>
+  <data name="pnlIngresosBotones.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 94</value>
+  </data>
+  <data name="pnlIngresosBotones.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresosBotones.Name" xml:space="preserve">
+    <value>pnlIngresosBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlIngresosBotones.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+  <data name="&gt;&gt;pnlIngresosBotones.Parent" xml:space="preserve">
     <value>pnlIngresos</value>
   </data>
-  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="&gt;&gt;pnlIngresosBotones.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="label28.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
@@ -35240,57 +36857,6 @@
   </data>
   <data name="&gt;&gt;btnAgregarIngreso.ZOrder" xml:space="preserve">
     <value>6</value>
-  </data>
-  <data name="pnlIngresosBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlIngresosBotones.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 609</value>
-  </data>
-  <data name="pnlIngresosBotones.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 94</value>
-  </data>
-  <data name="pnlIngresosBotones.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pnlIngresosBotones.Name" xml:space="preserve">
-    <value>pnlIngresosBotones</value>
-  </data>
-  <data name="&gt;&gt;pnlIngresosBotones.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlIngresosBotones.Parent" xml:space="preserve">
-    <value>pnlIngresos</value>
-  </data>
-  <data name="&gt;&gt;pnlIngresosBotones.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="pnlIngresos.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlIngresos.Location" type="System.Drawing.Point, System.Drawing">
-    <value>245, 0</value>
-  </data>
-  <data name="pnlIngresos.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 703</value>
-  </data>
-  <data name="pnlIngresos.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="pnlIngresos.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlIngresos.Name" xml:space="preserve">
-    <value>pnlIngresos</value>
-  </data>
-  <data name="&gt;&gt;pnlIngresos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlIngresos.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlIngresos.ZOrder" xml:space="preserve">
-    <value>5</value>
   </data>
   <metadata name="ingresosConTipoTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>1177, 189</value>
@@ -36098,7 +37664,298 @@ de
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pnlDashboard.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;rpvMovimientos.Name" xml:space="preserve">
+    <value>rpvMovimientos</value>
+  </data>
+  <data name="&gt;&gt;rpvMovimientos.Type" xml:space="preserve">
+    <value>Microsoft.Reporting.WinForms.ReportViewer, Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91</value>
+  </data>
+  <data name="&gt;&gt;rpvMovimientos.Parent" xml:space="preserve">
+    <value>pnlMovimientos</value>
+  </data>
+  <data name="&gt;&gt;rpvMovimientos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientosBotones.Name" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientosBotones.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientosBotones.Parent" xml:space="preserve">
+    <value>pnlMovimientos</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientosBotones.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pnlMovimientos.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlMovimientos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 88</value>
+  </data>
+  <data name="pnlMovimientos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 615</value>
+  </data>
+  <data name="pnlMovimientos.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientos.Name" xml:space="preserve">
+    <value>pnlMovimientos</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientos.Parent" xml:space="preserve">
+    <value>pnlReportes</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;rpvNomina.Name" xml:space="preserve">
+    <value>rpvNomina</value>
+  </data>
+  <data name="&gt;&gt;rpvNomina.Type" xml:space="preserve">
+    <value>Microsoft.Reporting.WinForms.ReportViewer, Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91</value>
+  </data>
+  <data name="&gt;&gt;rpvNomina.Parent" xml:space="preserve">
+    <value>pnlNomina</value>
+  </data>
+  <data name="&gt;&gt;rpvNomina.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonoesNomina.Name" xml:space="preserve">
+    <value>pnlBotonoesNomina</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonoesNomina.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonoesNomina.Parent" xml:space="preserve">
+    <value>pnlNomina</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonoesNomina.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pnlNomina.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlNomina.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 88</value>
+  </data>
+  <data name="pnlNomina.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 615</value>
+  </data>
+  <data name="pnlNomina.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="pnlNomina.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlNomina.Name" xml:space="preserve">
+    <value>pnlNomina</value>
+  </data>
+  <data name="&gt;&gt;pnlNomina.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlNomina.Parent" xml:space="preserve">
+    <value>pnlReportes</value>
+  </data>
+  <data name="&gt;&gt;pnlNomina.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;rpvNumeraciones.Name" xml:space="preserve">
+    <value>rpvNumeraciones</value>
+  </data>
+  <data name="&gt;&gt;rpvNumeraciones.Type" xml:space="preserve">
+    <value>Microsoft.Reporting.WinForms.ReportViewer, Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91</value>
+  </data>
+  <data name="&gt;&gt;rpvNumeraciones.Parent" xml:space="preserve">
+    <value>pnlNumeraciones</value>
+  </data>
+  <data name="&gt;&gt;rpvNumeraciones.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeracionesBotones.Name" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeracionesBotones.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeracionesBotones.Parent" xml:space="preserve">
+    <value>pnlNumeraciones</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeracionesBotones.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pnlNumeraciones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlNumeraciones.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 88</value>
+  </data>
+  <data name="pnlNumeraciones.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 615</value>
+  </data>
+  <data name="pnlNumeraciones.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="pnlNumeraciones.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeraciones.Name" xml:space="preserve">
+    <value>pnlNumeraciones</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeraciones.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeraciones.Parent" xml:space="preserve">
+    <value>pnlReportes</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeraciones.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pictNomina.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pictNomina.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictNomina.Location" type="System.Drawing.Point, System.Drawing">
+    <value>345, 0</value>
+  </data>
+  <data name="pictNomina.Size" type="System.Drawing.Size, System.Drawing">
+    <value>347, 88</value>
+  </data>
+  <data name="pictNomina.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictNomina.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;pictNomina.Name" xml:space="preserve">
+    <value>pictNomina</value>
+  </data>
+  <data name="&gt;&gt;pictNomina.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictNomina.Parent" xml:space="preserve">
+    <value>pnlElegirReporte</value>
+  </data>
+  <data name="&gt;&gt;pictNomina.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pictNumeraciones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="pictNumeraciones.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictNumeraciones.Location" type="System.Drawing.Point, System.Drawing">
+    <value>692, 0</value>
+  </data>
+  <data name="pictNumeraciones.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 88</value>
+  </data>
+  <data name="pictNumeraciones.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictNumeraciones.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;pictNumeraciones.Name" xml:space="preserve">
+    <value>pictNumeraciones</value>
+  </data>
+  <data name="&gt;&gt;pictNumeraciones.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictNumeraciones.Parent" xml:space="preserve">
+    <value>pnlElegirReporte</value>
+  </data>
+  <data name="&gt;&gt;pictNumeraciones.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pictMovimientos.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="pictMovimientos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictMovimientos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pictMovimientos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 88</value>
+  </data>
+  <data name="pictMovimientos.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="pictMovimientos.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;pictMovimientos.Name" xml:space="preserve">
+    <value>pictMovimientos</value>
+  </data>
+  <data name="&gt;&gt;pictMovimientos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictMovimientos.Parent" xml:space="preserve">
+    <value>pnlElegirReporte</value>
+  </data>
+  <data name="&gt;&gt;pictMovimientos.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pnlElegirReporte.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="pnlElegirReporte.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlElegirReporte.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 88</value>
+  </data>
+  <data name="pnlElegirReporte.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pnlElegirReporte.Name" xml:space="preserve">
+    <value>pnlElegirReporte</value>
+  </data>
+  <data name="&gt;&gt;pnlElegirReporte.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlElegirReporte.Parent" xml:space="preserve">
+    <value>pnlReportes</value>
+  </data>
+  <data name="&gt;&gt;pnlElegirReporte.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pnlReportes.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pnlReportes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 0</value>
+  </data>
+  <data name="pnlReportes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 703</value>
+  </data>
+  <data name="pnlReportes.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="pnlReportes.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlReportes.Name" xml:space="preserve">
+    <value>pnlReportes</value>
+  </data>
+  <data name="&gt;&gt;pnlReportes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlReportes.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlReportes.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
   <data name="rpvMovimientos.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -36123,6 +37980,126 @@ de
   </data>
   <data name="&gt;&gt;rpvMovimientos.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnElegirDiaM.Name" xml:space="preserve">
+    <value>btnElegirDiaM</value>
+  </data>
+  <data name="&gt;&gt;btnElegirDiaM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnElegirDiaM.Parent" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnElegirDiaM.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnCustomM.Name" xml:space="preserve">
+    <value>btnCustomM</value>
+  </data>
+  <data name="&gt;&gt;btnCustomM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCustomM.Parent" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnCustomM.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnAnoM.Name" xml:space="preserve">
+    <value>btnAnoM</value>
+  </data>
+  <data name="&gt;&gt;btnAnoM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAnoM.Parent" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnAnoM.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btn30DiasM.Name" xml:space="preserve">
+    <value>btn30DiasM</value>
+  </data>
+  <data name="&gt;&gt;btn30DiasM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn30DiasM.Parent" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;btn30DiasM.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnMesM.Name" xml:space="preserve">
+    <value>btnMesM</value>
+  </data>
+  <data name="&gt;&gt;btnMesM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMesM.Parent" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnMesM.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btn15DiasM.Name" xml:space="preserve">
+    <value>btn15DiasM</value>
+  </data>
+  <data name="&gt;&gt;btn15DiasM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn15DiasM.Parent" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;btn15DiasM.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btn7DiasM.Name" xml:space="preserve">
+    <value>btn7DiasM</value>
+  </data>
+  <data name="&gt;&gt;btn7DiasM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn7DiasM.Parent" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;btn7DiasM.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btnHoyM.Name" xml:space="preserve">
+    <value>btnHoyM</value>
+  </data>
+  <data name="&gt;&gt;btnHoyM.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnHoyM.Parent" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;btnHoyM.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="pnlMovimientosBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlMovimientosBotones.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 515</value>
+  </data>
+  <data name="pnlMovimientosBotones.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 100</value>
+  </data>
+  <data name="pnlMovimientosBotones.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientosBotones.Name" xml:space="preserve">
+    <value>pnlMovimientosBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientosBotones.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientosBotones.Parent" xml:space="preserve">
+    <value>pnlMovimientos</value>
+  </data>
+  <data name="&gt;&gt;pnlMovimientosBotones.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="btnElegirDiaM.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
@@ -36361,54 +38338,6 @@ de
   <data name="&gt;&gt;btnHoyM.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="pnlMovimientosBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlMovimientosBotones.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 515</value>
-  </data>
-  <data name="pnlMovimientosBotones.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 100</value>
-  </data>
-  <data name="pnlMovimientosBotones.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;pnlMovimientosBotones.Name" xml:space="preserve">
-    <value>pnlMovimientosBotones</value>
-  </data>
-  <data name="&gt;&gt;pnlMovimientosBotones.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlMovimientosBotones.Parent" xml:space="preserve">
-    <value>pnlMovimientos</value>
-  </data>
-  <data name="&gt;&gt;pnlMovimientosBotones.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="pnlMovimientos.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlMovimientos.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 88</value>
-  </data>
-  <data name="pnlMovimientos.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 615</value>
-  </data>
-  <data name="pnlMovimientos.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;pnlMovimientos.Name" xml:space="preserve">
-    <value>pnlMovimientos</value>
-  </data>
-  <data name="&gt;&gt;pnlMovimientos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlMovimientos.Parent" xml:space="preserve">
-    <value>pnlReportes</value>
-  </data>
-  <data name="&gt;&gt;pnlMovimientos.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="rpvNomina.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
@@ -36432,6 +38361,54 @@ de
   </data>
   <data name="&gt;&gt;rpvNomina.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnRefrescarNomina.Name" xml:space="preserve">
+    <value>btnRefrescarNomina</value>
+  </data>
+  <data name="&gt;&gt;btnRefrescarNomina.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnRefrescarNomina.Parent" xml:space="preserve">
+    <value>pnlBotonoesNomina</value>
+  </data>
+  <data name="&gt;&gt;btnRefrescarNomina.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnPagoNomina.Name" xml:space="preserve">
+    <value>btnPagoNomina</value>
+  </data>
+  <data name="&gt;&gt;btnPagoNomina.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPagoNomina.Parent" xml:space="preserve">
+    <value>pnlBotonoesNomina</value>
+  </data>
+  <data name="&gt;&gt;btnPagoNomina.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pnlBotonoesNomina.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlBotonoesNomina.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 515</value>
+  </data>
+  <data name="pnlBotonoesNomina.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 100</value>
+  </data>
+  <data name="pnlBotonoesNomina.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonoesNomina.Name" xml:space="preserve">
+    <value>pnlBotonoesNomina</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonoesNomina.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonoesNomina.Parent" xml:space="preserve">
+    <value>pnlNomina</value>
+  </data>
+  <data name="&gt;&gt;pnlBotonoesNomina.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="btnRefrescarNomina.Location" type="System.Drawing.Point, System.Drawing">
     <value>398, 19</value>
@@ -36484,57 +38461,6 @@ de
   <data name="&gt;&gt;btnPagoNomina.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="pnlBotonoesNomina.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlBotonoesNomina.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 515</value>
-  </data>
-  <data name="pnlBotonoesNomina.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 100</value>
-  </data>
-  <data name="pnlBotonoesNomina.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;pnlBotonoesNomina.Name" xml:space="preserve">
-    <value>pnlBotonoesNomina</value>
-  </data>
-  <data name="&gt;&gt;pnlBotonoesNomina.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlBotonoesNomina.Parent" xml:space="preserve">
-    <value>pnlNomina</value>
-  </data>
-  <data name="&gt;&gt;pnlBotonoesNomina.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="pnlNomina.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlNomina.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 88</value>
-  </data>
-  <data name="pnlNomina.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 615</value>
-  </data>
-  <data name="pnlNomina.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="pnlNomina.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlNomina.Name" xml:space="preserve">
-    <value>pnlNomina</value>
-  </data>
-  <data name="&gt;&gt;pnlNomina.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlNomina.Parent" xml:space="preserve">
-    <value>pnlReportes</value>
-  </data>
-  <data name="&gt;&gt;pnlNomina.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
   <data name="rpvNumeraciones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
@@ -36558,6 +38484,126 @@ de
   </data>
   <data name="&gt;&gt;rpvNumeraciones.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnFechaEspN.Name" xml:space="preserve">
+    <value>btnFechaEspN</value>
+  </data>
+  <data name="&gt;&gt;btnFechaEspN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnFechaEspN.Parent" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;btnFechaEspN.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnElegirFechasN.Name" xml:space="preserve">
+    <value>btnElegirFechasN</value>
+  </data>
+  <data name="&gt;&gt;btnElegirFechasN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnElegirFechasN.Parent" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;btnElegirFechasN.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnAnoN.Name" xml:space="preserve">
+    <value>btnAnoN</value>
+  </data>
+  <data name="&gt;&gt;btnAnoN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAnoN.Parent" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;btnAnoN.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btn30DiasN.Name" xml:space="preserve">
+    <value>btn30DiasN</value>
+  </data>
+  <data name="&gt;&gt;btn30DiasN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn30DiasN.Parent" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;btn30DiasN.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnMesN.Name" xml:space="preserve">
+    <value>btnMesN</value>
+  </data>
+  <data name="&gt;&gt;btnMesN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMesN.Parent" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;btnMesN.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btn15DiasN.Name" xml:space="preserve">
+    <value>btn15DiasN</value>
+  </data>
+  <data name="&gt;&gt;btn15DiasN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn15DiasN.Parent" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;btn15DiasN.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btn7DiasN.Name" xml:space="preserve">
+    <value>btn7DiasN</value>
+  </data>
+  <data name="&gt;&gt;btn7DiasN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn7DiasN.Parent" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;btn7DiasN.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btnHoyN.Name" xml:space="preserve">
+    <value>btnHoyN</value>
+  </data>
+  <data name="&gt;&gt;btnHoyN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnHoyN.Parent" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;btnHoyN.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="pnlNumeracionesBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="pnlNumeracionesBotones.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 515</value>
+  </data>
+  <data name="pnlNumeracionesBotones.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1037, 100</value>
+  </data>
+  <data name="pnlNumeracionesBotones.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeracionesBotones.Name" xml:space="preserve">
+    <value>pnlNumeracionesBotones</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeracionesBotones.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeracionesBotones.Parent" xml:space="preserve">
+    <value>pnlNumeraciones</value>
+  </data>
+  <data name="&gt;&gt;pnlNumeracionesBotones.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="btnFechaEspN.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom</value>
@@ -36798,198 +38844,6 @@ de
   </data>
   <data name="&gt;&gt;btnHoyN.ZOrder" xml:space="preserve">
     <value>7</value>
-  </data>
-  <data name="pnlNumeracionesBotones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="pnlNumeracionesBotones.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 515</value>
-  </data>
-  <data name="pnlNumeracionesBotones.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 100</value>
-  </data>
-  <data name="pnlNumeracionesBotones.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;pnlNumeracionesBotones.Name" xml:space="preserve">
-    <value>pnlNumeracionesBotones</value>
-  </data>
-  <data name="&gt;&gt;pnlNumeracionesBotones.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlNumeracionesBotones.Parent" xml:space="preserve">
-    <value>pnlNumeraciones</value>
-  </data>
-  <data name="&gt;&gt;pnlNumeracionesBotones.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="pnlNumeraciones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlNumeraciones.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 88</value>
-  </data>
-  <data name="pnlNumeraciones.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 615</value>
-  </data>
-  <data name="pnlNumeraciones.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="pnlNumeraciones.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlNumeraciones.Name" xml:space="preserve">
-    <value>pnlNumeraciones</value>
-  </data>
-  <data name="&gt;&gt;pnlNumeraciones.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlNumeraciones.Parent" xml:space="preserve">
-    <value>pnlReportes</value>
-  </data>
-  <data name="&gt;&gt;pnlNumeraciones.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="pictNomina.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pictNomina.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictNomina.Location" type="System.Drawing.Point, System.Drawing">
-    <value>345, 0</value>
-  </data>
-  <data name="pictNomina.Size" type="System.Drawing.Size, System.Drawing">
-    <value>347, 88</value>
-  </data>
-  <data name="pictNomina.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictNomina.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;pictNomina.Name" xml:space="preserve">
-    <value>pictNomina</value>
-  </data>
-  <data name="&gt;&gt;pictNomina.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictNomina.Parent" xml:space="preserve">
-    <value>pnlElegirReporte</value>
-  </data>
-  <data name="&gt;&gt;pictNomina.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="pictNumeraciones.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Right</value>
-  </data>
-  <data name="pictNumeraciones.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictNumeraciones.Location" type="System.Drawing.Point, System.Drawing">
-    <value>692, 0</value>
-  </data>
-  <data name="pictNumeraciones.Size" type="System.Drawing.Size, System.Drawing">
-    <value>345, 88</value>
-  </data>
-  <data name="pictNumeraciones.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictNumeraciones.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;pictNumeraciones.Name" xml:space="preserve">
-    <value>pictNumeraciones</value>
-  </data>
-  <data name="&gt;&gt;pictNumeraciones.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictNumeraciones.Parent" xml:space="preserve">
-    <value>pnlElegirReporte</value>
-  </data>
-  <data name="&gt;&gt;pictNumeraciones.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="pictMovimientos.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="pictMovimientos.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pictMovimientos.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="pictMovimientos.Size" type="System.Drawing.Size, System.Drawing">
-    <value>345, 88</value>
-  </data>
-  <data name="pictMovimientos.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="pictMovimientos.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;pictMovimientos.Name" xml:space="preserve">
-    <value>pictMovimientos</value>
-  </data>
-  <data name="&gt;&gt;pictMovimientos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictMovimientos.Parent" xml:space="preserve">
-    <value>pnlElegirReporte</value>
-  </data>
-  <data name="&gt;&gt;pictMovimientos.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="pnlElegirReporte.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="pnlElegirReporte.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="pnlElegirReporte.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 88</value>
-  </data>
-  <data name="pnlElegirReporte.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;pnlElegirReporte.Name" xml:space="preserve">
-    <value>pnlElegirReporte</value>
-  </data>
-  <data name="&gt;&gt;pnlElegirReporte.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlElegirReporte.Parent" xml:space="preserve">
-    <value>pnlReportes</value>
-  </data>
-  <data name="&gt;&gt;pnlElegirReporte.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="pnlReportes.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="pnlReportes.Location" type="System.Drawing.Point, System.Drawing">
-    <value>245, 0</value>
-  </data>
-  <data name="pnlReportes.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1037, 703</value>
-  </data>
-  <data name="pnlReportes.TabIndex" type="System.Int32, mscorlib">
-    <value>21</value>
-  </data>
-  <data name="pnlReportes.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlReportes.Name" xml:space="preserve">
-    <value>pnlReportes</value>
-  </data>
-  <data name="&gt;&gt;pnlReportes.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlReportes.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlReportes.ZOrder" xml:space="preserve">
-    <value>1</value>
   </data>
   <metadata name="SelectNominaTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>981, 232</value>
